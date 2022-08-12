@@ -10,7 +10,7 @@ Checkout the content below :eyes:
 
 | | What | Where |
 |:-:|:-|:-:|
-|[<img align="center" src="https://raw.githubusercontent.com/Jerboa-app/Jerboa-app/main/particles-logo.png" width="128">](https://play.google.com/store/apps/details?id=app.jerboa.spp) | Particles: A game about harassing particles!  <ul><li>Attract and Repel 100,000 particles in real time</li><li>Unlock Achievements</li><li>Create beautiful patterns</li><li>Free, and no ads!</li></ul>| Free on Google Play! |
+|[<img align="center" src="https://raw.githubusercontent.com/Jerboa-app/Jerboa-app/main/particles-promo.gif" width="512">](https://play.google.com/store/apps/details?id=app.jerboa.spp) | Particles: A game about harassing particles!  <ul><li>Attract and Repel 100,000 particles in real time</li><li>Unlock Achievements</li><li>Create beautiful patterns</li><li>Free, and no ads!</li></ul>| Free on Google Play! [<img align="center" src="https://raw.githubusercontent.com/Jerboa-app/Jerboa-app/main/particles-logo.png" width="512">](https://play.google.com/store/apps/details?id=app.jerboa.spp) |
   
 ### Games "in the pipline"
 
