@@ -15,8 +15,10 @@ Checkout the content below :eyes:
 ### Games "in the pipline"
 
 ### Articles, Videos, Code
-- Active Matter
-  - [Active Brownian particles](https://github.com/Jerboa-app/Articles/blob/main/2022/ABP.pdf), and the [code](https://github.com/Jerboa-app/ActiveBrownianParticles)
+- Physics
+  - [Big Nuts Rise, Sometimes](https://github.com/Jerboa-app/Articles/blob/main/2022/nuts.pdf), the [code](https://github.com/Jerboa-app/BigNutsRise), and the [video](https://youtu.be/NkZbbWe6d9M)
+  
+  - [Active Brownian particles](https://github.com/Jerboa-app/Articles/blob/main/2022/ABP.pdf), the [code](https://github.com/Jerboa-app/ActiveBrownianParticles), and the [video](https://youtu.be/WHzzLg3GqL4)
   
 - Meta science 
-  - [Open Access in scientific publishing, or why you can't access papers](https://github.com/Jerboa-app/Articles/blob/main/2022/open_access.pdf)
+  - [Open Access in scientific publishing, or why you can't access papers](https://github.com/Jerboa-app/Articles/blob/main/2022/open_access.pdf), and the [video](https://youtu.be/nG0-dWzmItU)
