@@ -23,4 +23,4 @@ Checkout the content below :eyes:
   - [Open Access in scientific publishing, or why you can't access papers](https://github.com/Jerboa-app/Articles/blob/main/2022/open_access.pdf), and the [video](https://youtu.be/nG0-dWzmItU)
   
 ### Games "in the pipline"
-Only secrets for now
+- Balancy Beam: A gameabout keeping beam upright! <img align="center" src="https://github.com/Jerboa-app/Jerboa-app/blob/main/logo.png" width="128">
