@@ -2,9 +2,11 @@
 
 Hello!
 
-I'm creating games as well as videos, code, and articles covering all areas of applied maths!
+I'm creating games, apps, and other code related stuff! Checkout the content below :eyes:
 
-Checkout the content below :eyes:
+### Currently working on
+
+[A cross platform idle/clicker game about Particles](https://github.com/JerboaBurrow/Particles-desktop) - with an experimental graphics Wrapper API targeting OpenGL and Vulkan as backends
 
 ### Released Games
 
