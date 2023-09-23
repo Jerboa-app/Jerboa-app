@@ -3,6 +3,9 @@
 Hello!
 
 I'm creating games, apps, and other code related stuff! Checkout the content below :eyes:
+<p align="center">
+<img src="https://github.com/Jerboa-app/Jerboa-app/assets/84378622/a95df637-bbb9-4813-a78e-b5ec3ac6910f" width="512">
+</p>
 
 ### Currently working on
 
